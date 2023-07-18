@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me:
 
-- 00년생
+- 
 -
 
 ---
@@ -43,4 +43,8 @@
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
 ![macos](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white)
 
+<div>
+<h3>Github Profile</h3>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeeJeongho0&layout=compact)](https://github.com/LeeJeongho0/github-readme-stats) 
+</div>

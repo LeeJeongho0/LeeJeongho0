@@ -10,7 +10,7 @@
 
 ### 👨‍💻 About Me:
 
--
+- 00년생
 -
 
 ---
@@ -43,5 +43,4 @@
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white)
 ![macos](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=macOS&logoColor=white)
 
----
 

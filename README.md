@@ -29,15 +29,12 @@
   <img src="https://img.shields.io/badge/kotlin-339AF0?style=for-the-badge&logo=kotlin&logoColor=white">
   <img src="https://img.shields.io/badge/php-1071D3?style=for-the-badge&logo=php&logoColor=white">
   <br>
-  <br>
 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
   <br>
-  <br>
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-  <br>
   <br>
 </div>
 

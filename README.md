@@ -12,7 +12,7 @@
 <div>
 - 자바 차량 등록 프로그램 : <a href="https://github.com/LeeJeongho0/car_registration_program-java-project"><img src="https://img.shields.io/badge/Link-F07355?style=flat-square&logo=verizon&logoColor=white"/></a><br>
 - Mp3 Music player 어플       : <a href="https://github.com/LeeJeongho0/mp3player_program_application-kotlin-project"><img src="https://img.shields.io/badge/Link-006600?style=flat-square&logo=verizon&logoColor=white"/></a><br>
-- 맵다이어리 어플 떠나자     : <a href="https://github.com/LeeJeongho0/MapDiary_Kotlin_Project"><img src="https://img.shields.io/badge/Link-FF9E0F?style=flat-square&logo=verizon&logoColor=white"/></a><br>
+- MapDiary 어플 떠나자     : <a href="https://github.com/LeeJeongho0/MapDiary_Kotlin_Project"><img src="https://img.shields.io/badge/Link-FF9E0F?style=flat-square&logo=verizon&logoColor=white"/></a><br>
 - 축구 커뮤니티 웹사이트    : <a href="https://github.com/LeeJeongho0/football_community_website-php-project"><img src="https://img.shields.io/badge/Link-C70D2C?style=flat-square&logo=verizon&logoColor=white"/></a><br>
 - 가구 쇼핑몰 Treefare     : <a href="https://github.com/LeeJeongho0/treefare_shopping_mall-php-project"><img src="https://img.shields.io/badge/Link-FF61F6?style=flat-square&logo=verizon&logoColor=white"/></a><br>
 </div>
